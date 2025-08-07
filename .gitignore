@@ -1,0 +1,22 @@
+# Ignore node modules and builds
+node_modules/
+build/
+dist/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Testing
+coverage/
